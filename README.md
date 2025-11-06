@@ -1,3 +1,0 @@
-﻿# shoes_style_generator
-
-
