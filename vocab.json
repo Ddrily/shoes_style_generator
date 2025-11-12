@@ -1,0 +1,56 @@
+{
+  "colors": [
+    "black",
+    "blue",
+    "bluish",
+    "bright_yellow",
+    "brown",
+    "dark_blue",
+    "dark_red",
+    "gray",
+    "greenish",
+    "light_gray",
+    "multicolor",
+    "orange_red",
+    "pink",
+    "purple",
+    "purple_blue",
+    "red",
+    "reddish",
+    "white",
+    "yellow",
+    "yellow_green"
+  ],
+  "styles": [
+    "Boot",
+    "Sandal",
+    "Shoe"
+  ],
+  "color_to_idx": {
+    "black": 0,
+    "blue": 1,
+    "bluish": 2,
+    "bright_yellow": 3,
+    "brown": 4,
+    "dark_blue": 5,
+    "dark_red": 6,
+    "gray": 7,
+    "greenish": 8,
+    "light_gray": 9,
+    "multicolor": 10,
+    "orange_red": 11,
+    "pink": 12,
+    "purple": 13,
+    "purple_blue": 14,
+    "red": 15,
+    "reddish": 16,
+    "white": 17,
+    "yellow": 18,
+    "yellow_green": 19
+  },
+  "style_to_idx": {
+    "Boot": 0,
+    "Sandal": 1,
+    "Shoe": 2
+  }
+}
